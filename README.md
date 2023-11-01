@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Catikyon
+- 👀 I’m interested in cats and code owo
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on ... well, anything
